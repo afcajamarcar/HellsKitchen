@@ -1,24 +1,15 @@
-# README
+# Hell's Kitchen
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Pretty simple Rails api backend, for fetching kitchen recipes from a db.
 
-Things you may want to cover:
+* MongoDB integration
 
-* Ruby version
+* Models
 
-* System dependencies
+* Controllers
 
-* Configuration
+* Simple Routing
 
-* Database creation
+* Migrations and seeds
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* REST - HTTP requests
