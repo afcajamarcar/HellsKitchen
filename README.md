@@ -13,3 +13,5 @@ Pretty simple Rails api backend, for fetching kitchen recipes from a db.
 * Migrations and seeds
 
 * REST - HTTP requests
+
+* RSpec for TDD
